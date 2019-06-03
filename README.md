@@ -13,7 +13,9 @@ Done:
 - Law of large numbers
 - Correlation
 - Covariance
-
+- Quartiles and IQR
+- Freedman-Diaconis rule for bin size
+- PCA, eigenvectors, eigenvalues
 
 TODO:
 - Random variables and distribution
