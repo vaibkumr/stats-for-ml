@@ -16,6 +16,7 @@ Done:
 - Quartiles and IQR
 - Freedman-Diaconis rule for bin size
 - PCA, eigenvectors, eigenvalues
+- Central limit theorem
 
 TODO:
 - Random variables and distribution
