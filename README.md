@@ -23,6 +23,8 @@ Done:
 - Central limit theorem
 - Normal distribution
 - ML for Statisticians
+- SNE
+- tSNE
 
 TODO:
 - Random variables and distribution
